@@ -1,11 +1,22 @@
 # Proyecto-VueJS--Tienda-Online
 
-Enlace a pagina en producción
+## Enlace a la página en producción
 https://ezclothes-vue.web.app/
 
-Install dependencies
+## Install dependencies
+
+```sh
 npm install
-Serve with hot reload at localhost
+```
+
+### Serve with hot reload at localhost
+
+```sh
 npm run dev
-Build for production with minification
+```
+
+### Build for production with minification
+
+```sh
 npm run build
+```
