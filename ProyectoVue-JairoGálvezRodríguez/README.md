@@ -1,4 +1,4 @@
-## Enlace a pagina en producción
+## Enlace a la página en producción
 https://ezclothes-vue.web.app/
 
 ## Install dependencies
